@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @N4ch0VS
+- 👀 Estoy interesado en Redes neuronales y todo lo que pueda ayudarme a crecer 
+- 🌱 Actualmente estoy aprendiendo Phython/Javascript
+- 💞️ Estoy colaborando con el proyecto Globe de ETec Um y varios proyectos propios
+- 📫 Puedes contactarme mediante Gmail: herrerajuanig2023@gmail.com
+- 😄 Pronombres : Nacho
+- soy de Mendoza(Argentina)
