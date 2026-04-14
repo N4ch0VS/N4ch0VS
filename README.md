@@ -39,22 +39,41 @@ Soy un **estudiante de Internet de las Cosas (IoT)** que se desenvuelve en la in
 **Control de Versiones y Entorno** <br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-000000?style=flat&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
 
+---
+
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4ch0VS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=es" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=N4ch0VS&theme=dark&hide_border=false&locale=es" alt="Streak Stats" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N4ch0VS&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" width="100%"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4ch0VS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N4ch0VS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=es&show_icons=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4ch0VS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es" alt="Top Languages" height="180" />
+</p>
 
 ---
+
+## 🔥 Estadísticas de Racha
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=N4ch0VS&theme=dark&hide_border=false&locale=es" alt="Streak Stats" width="100%" />
+</p>
+
+---
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=N4ch0VS&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="Trophies" width="100%"/>
+</p>
+
+---
+
+## 📈 Gráfico de Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4ch0VS&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=1f2937&area=true&hide_border=false&custom_title=Contribuciones%20del%20año" alt="Activity Graph" />
+</p>
+
+---
+
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=N4ch0VS&icon=2&color=0" alt="Profile Views" />
