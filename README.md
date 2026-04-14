@@ -43,27 +43,29 @@ Soy un **estudiante de Internet de las Cosas (IoT)** que se desenvuelve en la in
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N4ch0VS&theme=radical&hide_border=true&show_icons=true)](https://github.com/N4ch0VS/github-readme-stats)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=N4ch0VS&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4ch0VS&theme=radical&hide_border=true&layout=compact)](https://github.com/N4ch0VS/github-readme-stats)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N4ch0VS&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔥 Racha de Contribuciones
 
-[![Streak](https://streak-stats.demolab.com/?user=N4ch0VS&theme=radical&hide_border=true)](https://github.com/N4ch0VS)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=N4ch0VS&theme=radical&hide_border=true" alt="Streak" />
+</p>
 
 ---
 
 ## 🏆 Trofeos
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=N4ch0VS&theme=radical&hide_border=true&no-bg=true&column=8)](https://github.com/N4ch0VS)
-
----
-
-## 📈 Actividad Reciente
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N4ch0VS&bg_color=0d1117&color=50fa7b&line=50fa7b&point=50fa7b&area=true&hide_border=false)](https://github.com/N4ch0VS)
+<p align="center">
+  <img src="https://gh-trophy.cdnsoft.net/?username=N4ch0VS&theme=radical&column=8" alt="Trophies" />
+</p>
 
 ---
 
