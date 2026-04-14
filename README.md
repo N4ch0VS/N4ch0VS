@@ -43,39 +43,37 @@ Soy un **estudiante de Internet de las Cosas (IoT)** que se desenvuelve en la in
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N4ch0VS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=es&show_icons=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4ch0VS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=es" alt="Top Languages" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N4ch0VS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4ch0VS&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" />
+</div>
 
 ---
 
-## 🔥 Estadísticas de Racha
+## 🔥 Racha de Contribuciones
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=N4ch0VS&theme=dark&hide_border=false&locale=es" alt="Streak Stats" width="100%" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=N4ch0VS&theme=radical&hide_border=true&locale=es" alt="Streak" width="100%" />
+</div>
 
 ---
 
 ## 🏆 Trofeos
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N4ch0VS&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="Trophies" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=N4ch0VS&theme=radical&hide_border=true&no-bg=true&column=8" alt="Trophies" />
+</div>
 
 ---
 
-## 📈 Gráfico de Contribuciones
+## 📈 Actividad Reciente
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4ch0VS&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=1f2937&area=true&hide_border=false&custom_title=Contribuciones%20del%20año" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4ch0VS&bg_color=1a1b26&color=50fa7b&line=50fa7b&point=50fa7b&area=true&hide_border=false&theme=react-dark" alt="Activity Graph" />
+</div>
 
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=N4ch0VS&icon=2&color=0" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=N4ch0VS&label=Profile%20Views&color=50fa7b&style=flat" alt="Profile Views" />
 </div>
