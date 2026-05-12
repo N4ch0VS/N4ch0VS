@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Juan Ignacio Calderón! 👋</h1>
-<h3 align="center">Estudiante de IoT | Desarrollador de Hardware y Software | Entusiasta de la Física</h3>
+<h3 align="center">Estudiante de IoT | Desarrollador de Hardware y Software | Desarollador web</h3>
 
 <p align="center">
   <a href="https://exorbis.vercel.app" target="_blank">
@@ -11,18 +11,18 @@
 
 ## 💫 Sobre Mí
 
-Soy un **estudiante de Internet de las Cosas (IoT)** que se desenvuelve en la intersección del **Hardware, el Software y la Física**. Mi enfoque está en construir sistemas robustos que conecten el mundo digital con el físico.
+Soy un **estudiante de Internet de las Cosas (IoT)** que se desenvuelve en la intersección del **Hardware, el Software y IA**. Mi enfoque está en construir sistemas robustos que conecten el mundo digital con el físico.
 
-* 🔭 Actualmente estoy trabajando y mejorando continuamente en mi proyecto **[Exorbis](https://exorbis.vercel.app)**.
+* 🔭 Actualmente estoy trabajando y mejorando continuamente en mi proyecto/trabajo **[Exorbis](https://exorbis.vercel.app)**.
 * ⚙️ Especializado en **Python** y **C++**, con una base sólida en electrónica y programación de bajo nivel.
-* 🔬 Me apasiona resolver problemas complejos que involucran computación física, automatización y procesamiento de datos en tiempo real.
-* 📫 Cómo contactarme: **[herrerajuanig2023@gmail.com](mailto:herrerajuanig2023@gmail.com)**
+* 🔬 Me apasiona resolver problemas complejos que involucran computación, IA, automatización y procesamiento de datos en tiempo real.
+* 📫 Cómo contactarme: **[Juanignaciodev26@gmail.com](mailto:Juanignaciodev26@gmail.com)**
 
 ## 🌐 Conecta conmigo
 
 <p align="left">
   <a href="https://instagram.com/ignacio.herreraa1" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="ignacio.herreraa1" /></a>
-  <a href="mailto:herrerajuanig2023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:Juanignaciodev26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 
 ## 💻 Tecnologías y Herramientas
