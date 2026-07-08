@@ -1,74 +1,124 @@
-<h1 align="center">¡Hola, soy Juan Ignacio Calderón! 👋</h1>
-<h3 align="center">Estudiante de IoT | Desarrollador de Hardware y Software | Desarollador web</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://exorbis.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visita_Mi_Proyecto-Exorbis-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Exorbis"/>
-  </a>
-</p>
+<!-- Banner con efecto de tipeo -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=F5B041&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Ignacio+Calder%C3%B3n;Web+Developer+%C2%B7+IoT+%26+AI;Conecto+el+mundo+f%C3%ADsico+con+el+digital" alt="Typing SVG" />
 
----
+<br/>
 
-## 💫 Sobre Mí
+**Desarrollador web con foco en IoT e inteligencia artificial.**
+Construyo aplicaciones web, sistemas conectados y automatizaciones desde Mendoza, Argentina.
 
-Soy un **estudiante de Internet de las Cosas (IoT)** que se desenvuelve en la intersección del **Hardware, el Software y IA**. Mi enfoque está en construir sistemas robustos que conecten el mundo digital con el físico.
+<br/>
 
-* 🔭 Actualmente estoy trabajando y mejorando continuamente en mi proyecto/trabajo **[Exorbis](https://exorbis.vercel.app)**.
-* ⚙️ Especializado en **Python** y **C++**, con una base sólida en electrónica y programación de bajo nivel.
-* 🔬 Me apasiona resolver problemas complejos que involucran computación, IA, automatización y procesamiento de datos en tiempo real.
-* 📫 Cómo contactarme: **[Juanignaciodev26@gmail.com](mailto:Juanignaciodev26@gmail.com)**
+<!-- Botones de contacto -->
+<a href="https://www.linkedin.com/in/juanignaciocalderondev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/JuanIgnaciodev">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:juanignaciodev26@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://exorbis.vercel.app">
+  <img src="https://img.shields.io/badge/Exorbis-F5B041?style=for-the-badge&logo=vercel&logoColor=black" alt="Exorbis"/>
+</a>
 
-## 🌐 Conecta conmigo
+</div>
 
-<p align="left">
-  <a href="https://instagram.com/ignacio.herreraa1" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="ignacio.herreraa1" /></a>
-  <a href="mailto:Juanignaciodev26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-</p>
-
-## 💻 Tecnologías y Herramientas
-
-**Lenguajes y Frameworks** <br>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-
-**IoT, Hardware y Computación Física** <br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-222?style=flat&logo=platformio&logoColor=f5822a) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=node-red&logoColor=white)
-
-**Gráficos, Visión y Cloud** <br>
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Control de Versiones y Entorno** <br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-000000?style=flat&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
+<br/>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Sobre mí
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=N4ch0VS&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</p>
+```typescript
+const nacho = {
+  ubicación: "Mendoza, Argentina",
+  rol: "Web Developer · IoT & AI",
+  fundador: "Exorbis — automatización e IA para PyMEs",
+  formación: "Técnico Electrónico (ETEC UM)",
+  filosofía: "Sistemas completos, no solo pantallas",
+};
+```
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N4ch0VS&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+- Desarrollo **aplicaciones web modernas** con Next.js, Supabase y Firebase
+- Diseño **sistemas IoT** con ESP32, sensores y transmisión de datos en tiempo real
+- Implemento **agentes de IA y automatizaciones** con n8n para negocios reales
+- Vengo de la **electrónica**: PCBs en KiCad, firmware, y programación de bajo nivel
 
----
+<br/>
 
-## 🔥 Racha de Contribuciones
+## Proyectos destacados
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=N4ch0VS&theme=radical&hide_border=true" alt="Streak" />
-</p>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **REM** | Red de Estaciones Meteorológicas — medición de variables atmosféricas en tiempo real con plataforma web. 1° puesto SASE CPE. | `ESP32` `C++` `Web` |
+| **E-commerce** | Tienda online completa con pasarela de pagos e integración logística para marca de indumentaria. | `Next.js` `Firebase` `Mercado Pago` |
+| **Gestión hotelera + IA** | Plataforma de gestión con chatbot conversacional integrado a PMS para hotelería. | `Next.js` `Supabase` `Gemini` `n8n` |
 
----
+> Cada proyecto con su repo, fotos y documentación — mirá los repos fijados abajo.
 
-## 🏆 Trofeos
+<br/>
 
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=N4ch0VS&theme=radical&column=8" alt="Trophies" />
-</p>
+## Stack
+
+**Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**IoT & Hardware**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-222222?style=flat-square&logo=platformio&logoColor=F5822A)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+
+**IA & Automatización**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**Entorno**
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+<br/>
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=N4ch0VS&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117&title_color=F5B041&icon_color=F5B041" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4ch0VS&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=F5B041" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=N4ch0VS&theme=dark&hide_border=true&background=0d1117&ring=F5B041&fire=F5B041&currStreakLabel=F5B041" alt="Streak" />
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=N4ch0VS&label=Visitas%20al%20Perfil&color=50fa7b&style=flat" alt="Profile Views" />
+
+**Portafolio próximamente en [juanignacio.vercel.app](https://juanignacio.vercel.app)**
+
+<img src="https://komarev.com/ghpvc/?username=N4ch0VS&label=Visitas&color=F5B041&style=flat-square" alt="Profile Views" />
+
 </div>
