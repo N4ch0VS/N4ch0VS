@@ -11,6 +11,9 @@ Construyo aplicaciones web, sistemas conectados y automatizaciones desde Mendoza
 <br/>
 
 <!-- Botones de contacto -->
+<a href="https://juanignacio.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Sitio_Personal-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Sitio Personal"/>
+</a>
 <a href="https://www.linkedin.com/in/juanignaciocalderondev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -56,6 +59,7 @@ const nacho = {
 | **REM** | Red de Estaciones Meteorológicas — medición de variables atmosféricas en tiempo real con plataforma web. 1° puesto SASE CPE. | `ESP32` `C++` `Web` |
 | **E-commerce** | Tienda online completa con pasarela de pagos e integración logística para marca de indumentaria. | `Next.js` `Firebase` `Mercado Pago` |
 | **Gestión hotelera + IA** | Plataforma de gestión con chatbot conversacional integrado a PMS para hotelería. | `Next.js` `Supabase` `Gemini` `n8n` |
+| **Terroir Tech** | Plataforma web con monitoreo agroclimático mediante imágenes satelitales NDVI e IA, junto a estaciones terrenas. | `Next.js` `Gemini` `ESP32` `LoRa` |
 
 > Cada proyecto con su repo, fotos y documentación — mirá los repos fijados abajo.
 
@@ -117,7 +121,7 @@ const nacho = {
 
 <div align="center">
 
-**Portafolio próximamente en [juanignacio.vercel.app](https://juanignacio.vercel.app)**
+**Portafolio: [juanignacio.vercel.app](https://juanignacio.vercel.app)**
 
 <img src="https://komarev.com/ghpvc/?username=N4ch0VS&label=Visitas&color=F5B041&style=flat-square" alt="Profile Views" />
 
