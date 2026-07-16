@@ -39,16 +39,13 @@ Construyo aplicaciones web, sistemas conectados y automatizaciones desde Mendoza
 const nacho = {
   ubicación: "Mendoza, Argentina",
   rol: "Web Developer · IoT & AI",
-  fundador: "Exorbis — automatización e IA para PyMEs",
   formación: "Técnico Electrónico (ETEC UM)",
-  filosofía: "Sistemas completos, no solo pantallas",
 };
 ```
 
 - Desarrollo **aplicaciones web modernas** con Next.js, Supabase y Firebase
 - Diseño **sistemas IoT** con ESP32, sensores y transmisión de datos en tiempo real
-- Implemento **agentes de IA y automatizaciones** con n8n para negocios reales
-- Vengo de la **electrónica**: PCBs en KiCad, firmware, y programación de bajo nivel
+- Implemento **agentes de IA y automatizaciones** para negocios reales
 
 <br/>
 
@@ -58,7 +55,7 @@ const nacho = {
 |----------|-------------|-------|
 | **REM** | Red de Estaciones Meteorológicas — medición de variables atmosféricas en tiempo real con plataforma web. 1° puesto SASE CPE. | `ESP32` `C++` `Web` |
 | **E-commerce** | Tienda online completa con pasarela de pagos e integración logística para marca de indumentaria. | `Next.js` `Firebase` `Mercado Pago` |
-| **Gestión hotelera + IA** | Plataforma de gestión con chatbot conversacional integrado a PMS para hotelería. | `Next.js` `Supabase` `Gemini` `n8n` |
+| **Gestión hotelera + IA** | Plataforma de gestión con chatbot conversacional integrado a PMS para hotelería. | `Next.js` `Supabase` `Gemini` |
 | **Terroir Tech** | Plataforma web con monitoreo agroclimático mediante imágenes satelitales NDVI e IA, junto a estaciones terrenas. | `Next.js` `Gemini` `ESP32` `LoRa` |
 
 > Cada proyecto con su repo, fotos y documentación — mirá los repos fijados abajo.
@@ -87,7 +84,6 @@ const nacho = {
 
 **IA & Automatización**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
